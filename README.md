@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 CRM - Simple Servlet + JSP demo
 =================================
 This is a minimal Maven WAR project that contains:
@@ -16,5 +16,4 @@ How to run in Eclipse:
    Username: admin
    Password: Admin@123
 =======
-# crm_customer_manager
->>>>>>> dbd3e06d514d9155d27ec40999959ce9c0aa2809
+
